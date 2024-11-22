@@ -60,4 +60,3 @@ while 1:
                 q.append((nb, nx, ny, minute+1))
     else:
         print("Trapped!")
-
